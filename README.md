@@ -1,6 +1,6 @@
-[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://github.com/ayushtiwarigit)
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ayush+Tiwari;Software+Engineer+💻;MERN+Stack+Developer;Frontend+%7C+Backend+%7C+Fullstack)](https://github.com/ayushtiwarigit)
 
-<h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 <h3 align="center">Software Engineer | MERN Stack | Passionate about Building Scalable Web Apps</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU" />
@@ -32,13 +32,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)  
 
 #### 🖥️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
 
 #### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -65,13 +70,15 @@
 If you like my work, consider supporting me!  
 
 #### 🔗 Buy Me a Coffee  
-<a href="https://www.buymeacoffee.com/ayushtiwarigit" target="_blank">
+<a href="https://buymeacoffee.com/ayushtiwariji" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" />
 </a>  
 
 #### 📲 Pay via UPI / PhonePe  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushtiwarigit/ayushtiwarigit/main/AccountQRCodeUnion%20Bank%20Of%20India%20-%200944_DARK_THEME3691835268973319264.png" alt="PhonePe QR" width="250"/>
+  <!-- Upload your QR to your repo, then update this path -->
+  <img src="https://raw.githubusercontent.com/ayushtiwarigit/ayushtiwarigit/main/assets/upi-qr.png" alt="PhonePe QR" width="250"/>
 </p>
 
 - 💳 **UPI ID:** `ayushtiwari6219@ibl`  
