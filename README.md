@@ -76,11 +76,6 @@ If you like my work, consider supporting me!
 
 #### 📲 Pay via UPI / PhonePe  
 
-<p align="center">
-  <!-- Upload your QR to your repo, then update this path -->
-  <img src="https://raw.githubusercontent.com/ayushtiwarigit/ayushtiwarigit/main/assets/upi-qr.png" alt="PhonePe QR" width="250"/>
-</p>
-
 - 💳 **UPI ID:** `ayushtiwari6219@ibl`  
 - 📱 **Phone Number (PhonePe):** `8982893647`  
 
