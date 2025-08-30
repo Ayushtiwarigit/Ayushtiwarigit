@@ -1,37 +1,80 @@
-[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
-<h1 align="center">Hi 👋, I'm Ayush tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
+[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://github.com/ayushtiwarigit)
 
+<h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
+<h3 align="center">Software Engineer | MERN Stack | Passionate about Building Scalable Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtiwarigit&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtiwarigit" /> </p>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushtiwarigit" alt="ayushtiwarigit" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_tiwari_ji?logo=twitter&style=for-the-badge" alt="ayush_tiwari_ji" /></a> </p>
+### 👨‍💻 About Me  
+- 🌱 Currently learning **React Native** & advanced **MERN stack** concepts  
+- 💼 1 year of experience in **MERN Development**  
+- 💬 Ask me about **Frontend Development, React, MERN**  
+- 📫 Reach me at **aayush.tiwari.3700@gmail.com**  
+- ⚡ Fun fact: *I love adding humor into code reviews 😄*  
 
-- 🌱 I’m currently learning **React native**
+---
 
-- 💬 Ask me about **Front end development**
-
-- 📫 How to reach me **aayush.tiwari.3700@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect With Me  
 <p align="left">
-<a href="https://twitter.com/ayush_tiwari_ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_tiwari_ji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush tiwari" height="30" width="40" /></a>
-<a href="https://fb.com/ayush tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush_tiwari_ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_tiwari_ji" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ayush tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush tiwari" height="30" width="40" /></a>
+<a href="https://twitter.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_tiwari_ji?logo=twitter&style=for-the-badge" alt="twitter"/></a>
+<a href="https://linkedin.com/in/ayush-tiwari" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin"/></a>
+<a href="https://instagram.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="instagram"/></a>
+<a href="https://www.youtube.com/c/ayushtiwari" target="blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge" alt="youtube"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushtiwarigit&show_icons=true&locale=en&layout=compact" alt="ayushtiwarigit" /></p>
+### 🛠️ Skills & Tools  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushtiwarigit&show_icons=true&locale=en" alt="ayushtiwarigit" /></p>
+#### 🚀 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushtiwarigit&" alt="ayushtiwarigit" /></p>
+#### 🖥️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+#### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+
+#### ⚒️ Other Tools  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-FFDB00?style=for-the-badge&logo=apachehadoop&logoColor=black)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushtiwarigit&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtiwarigit&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushtiwarigit&theme=radical" alt="streak" />
+</p>
+
+---
+
+### ☕ Support Me  
+If you like my work, consider supporting me!  
+
+#### 🔗 Buy Me a Coffee  
+<a href="https://www.buymeacoffee.com/ayushtiwarigit" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" />
+</a>  
+
+#### 📲 Pay via UPI / PhonePe  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushtiwarigit/ayushtiwarigit/main/AccountQRCodeUnion%20Bank%20Of%20India%20-%200944_DARK_THEME3691835268973319264.png" alt="PhonePe QR" width="250"/>
+</p>
+
+- 💳 **UPI ID:** `ayushtiwari6219@ibl`  
+- 📱 **Phone Number (PhonePe):** `8982893647`  
+
+---
