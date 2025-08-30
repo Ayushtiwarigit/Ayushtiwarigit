@@ -18,10 +18,11 @@
 
 ### 🤝 Connect With Me  
 <p align="left">
-<a href="https://twitter.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_tiwari_ji?logo=twitter&style=for-the-badge" alt="twitter"/></a>
-<a href="https://linkedin.com/in/ayush-tiwari" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin"/></a>
-<a href="https://instagram.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="instagram"/></a>
-<a href="https://www.youtube.com/c/ayushtiwari" target="blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge" alt="youtube"/></a>
+<a href="https://x.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="twitter"/></a>
+<a href="https://www.linkedin.com/in/ayush-tiwari-ji/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/ayush_tiwari_ji" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="instagram"/></a>
+<a href="https://www.youtube.com/@ayushtiwariji6219" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" alt="youtube"/></a>
+<a href="https://ayushtiwariji62.wordpress.com/" target="blank"><img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&style=for-the-badge&logoColor=white" alt="wordpress"/></a>
 </p>
 
 ---
